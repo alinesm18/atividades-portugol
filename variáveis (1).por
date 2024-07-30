@@ -1,14 +1,14 @@
 programa {
   funcao inicio() {
 
-    // comentário por linha!
-    /* segue o comentário. */
-    // declaração de variáveis.
+    // comentÃ¡rio por linha!
+    /* segue o comentÃ¡rio. */
+    // declaraÃ§Ã£o de variÃ¡veis.
 
     cadeia nome
     inteiro idade 
     real altura
-// atribuição de variáveis.
+// atribuiÃ§Ã£o de variÃ¡veis.
 nome = "aline"
 idade = 16
 altura = 1.70
