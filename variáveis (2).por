@@ -1,11 +1,11 @@
 programa {
   funcao inicio() {
-    // declaração das variáveis 
+    // declaraÃ§Ã£o das variÃ¡veis 
     cadeia nome
     inteiro idade
     real altura
 
-    // atribuição de variável com o comando leia ()
+    // atribuiÃ§Ã£o de variÃ¡vel com o comando leia ()
     escreva ("digite o seu nome: ")
     leia (nome)
     escreva ("digite a sua idade: ")
