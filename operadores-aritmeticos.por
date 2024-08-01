@@ -1,19 +1,19 @@
 programa {
   funcao inicio() {
     // declaração das variáveis 
-    cadeia nome
-    inteiro idade
-    real altura
+    real valorA, valorB
 
-    // atribuição de variável com o comando leia ()
-    escreva ("digite o seu nome: ")
-    leia (nome)
-    escreva ("digite a sua idade: ")
-    leia (idade)
-    escreva ("digite sua altura: ")
-    leia (altura)
+    // atribuição 
+    escreva ("digite o valor de A: ")
+    leia (valorA)
+    escreva ("digite o valor de B: ")
+    leia (valorB)
 
-    // exibir mensagem na tela
-    escreva (" nome: ", nome, " idade: ", idade, " altura: " , altura)
+    // operações aritméticas
+   escreva ("A soma de A e B: ", (valorA + valorB))
+   escreva ("A subtração de A e B: ", (valorA - valorB))
+   escreva ("A multiplicação de A e B: ", (valorA * valorB))
+   escreva ("A divisão de A e B: ", (valorA / valorB))
+   escreva ("O resto de A e B: ", (valorA % valorB))
   }
 }
