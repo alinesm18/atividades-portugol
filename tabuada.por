@@ -2,11 +2,11 @@ programa {
   funcao inicio() {
    inteiro numero
 
-    // Solicita ao usuário que informe o número da tabuada
-    escreva("Digite o Número: ")
+    // Solicita ao usuÃ¡rio que informe o nÃºmero da tabuada
+    escreva("Digite o NÃºmero: ")
     leia(numero)
 
-    // Exibe a tabuada do número escolhido
+    // Exibe a tabuada do nÃºmero escolhido
     escreva("Tabuada do ", numero, ":\n")
     
     para(inteiro i = 0; i <= 10; i++) {
